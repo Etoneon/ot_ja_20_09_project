@@ -1,1 +1,1 @@
-web: java -jar weathertelegrambot/build/libs/weathertelegrambotapp-0.1.jar
+worker: java -jar weathertelegrambot/build/libs/weathertelegrambotapp-0.1.jar
